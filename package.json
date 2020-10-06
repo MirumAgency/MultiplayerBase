@@ -13,5 +13,12 @@
     "email": "json@json.co",
     "url": "https://www.unity3d.com"
   },
-  "hideInEditor": false
+  "hideInEditor": false,
+  "samples": [
+    {
+      "displayName": "Sample 1",
+      "description": "Description for sample 1.",
+      "path": "Runtime/Multiplayer Base/Scenes"
+    }
+  ]
 }
