@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 9a0c114c7b918a444a8c93fa57b5e1b4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Proxima Nova
+  fontNames:
+  - Proxima Nova
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32638aa11dfda35449df9ec944327629, type: 3}
+  - {fileID: 12800000, guid: a9c9c892034e2834c8e2d1e2f9b7ea1d, type: 3}
+  - {fileID: 12800000, guid: 6ecc0103014ef2143b5b6532c151ffd2, type: 3}
+  - {fileID: 12800000, guid: 203f16131cec34749a0363dd38ec4f1f, type: 3}
+  - {fileID: 12800000, guid: bf118eb3e4afd3c4285cf1f720d3b546, type: 3}
+  - {fileID: 12800000, guid: 93da36c327f05484291976352b139c75, type: 3}
+  - {fileID: 12800000, guid: cf5f54359cd6cc7408f6623cdb4fadc7, type: 3}
+  - {fileID: 12800000, guid: 4ccb665508dd5674d8ca9d1d08c05813, type: 3}
+  - {fileID: 12800000, guid: 59047dc56dd4974459819b8efbc7d219, type: 3}
+  - {fileID: 12800000, guid: c2edb8084a2eddb468afd3984686ceba, type: 3}
+  - {fileID: 12800000, guid: 4ee3515850f4b1546805acc7df6adfdf, type: 3}
+  - {fileID: 12800000, guid: 13c9e99822faf0b4595baf80c5da237a, type: 3}
+  - {fileID: 12800000, guid: fba26fc89db2c5d468da7870d7aecc37, type: 3}
+  - {fileID: 12800000, guid: 5f71f41a81e157942ad8a162874c30bf, type: 3}
+  - {fileID: 12800000, guid: 78b8756a45ef1784d9d17e96d956e398, type: 3}
+  - {fileID: 12800000, guid: 7c62e74b4e7583d4ba0e3a173583236a, type: 3}
+  - {fileID: 12800000, guid: 211ef99bf04b5494cb721f65a2235c10, type: 3}
+  - {fileID: 12800000, guid: 4f293afcc7c5ce24c9609479d9276eb8, type: 3}
+  - {fileID: 12800000, guid: ec43f26dc0fb59948b8202260c754aa7, type: 3}
+  - {fileID: 12800000, guid: a5b2517d561d44d4b89c1ae1417f8a4e, type: 3}
+  - {fileID: 12800000, guid: c160998fd812e67479d780a1db480319, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

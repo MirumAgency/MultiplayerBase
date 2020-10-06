@@ -1,0 +1,1867 @@
+fileFormatVersion: 2
+guid: da095f60e656c0c49bba06994917034b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2389990485552675949
+    second: keyboard_hover_0
+  - first:
+      213: 8537738528509128232
+    second: keyboard_hover_1
+  - first:
+      213: -4151858658857246815
+    second: keyboard_hover_2
+  - first:
+      213: -6846856635602079120
+    second: keyboard_hover_3
+  - first:
+      213: -3371671314328775682
+    second: keyboard_hover_4
+  - first:
+      213: 3160798867997582671
+    second: keyboard_hover_5
+  - first:
+      213: -3199085470226283631
+    second: keyboard_hover_6
+  - first:
+      213: 6865308269307761787
+    second: keyboard_hover_7
+  - first:
+      213: -290933019436053315
+    second: keyboard_hover_8
+  - first:
+      213: -802344332448193194
+    second: keyboard_hover_9
+  - first:
+      213: -7094400280432617551
+    second: keyboard_hover_10
+  - first:
+      213: -6465815342222715649
+    second: keyboard_hover_11
+  - first:
+      213: -2490514281390072735
+    second: keyboard_hover_12
+  - first:
+      213: -5072350411411786026
+    second: keyboard_hover_13
+  - first:
+      213: -7101802237153413209
+    second: keyboard_hover_14
+  - first:
+      213: -8135767780286656881
+    second: keyboard_hover_15
+  - first:
+      213: 3942918329665476500
+    second: keyboard_hover_16
+  - first:
+      213: -8429513946422902396
+    second: keyboard_hover_17
+  - first:
+      213: 1884301838032474555
+    second: keyboard_hover_18
+  - first:
+      213: -2836979699995171898
+    second: keyboard_hover_19
+  - first:
+      213: -6923295873766718973
+    second: keyboard_hover_20
+  - first:
+      213: 739351854616114609
+    second: keyboard_hover_21
+  - first:
+      213: 4998319336482317426
+    second: keyboard_hover_22
+  - first:
+      213: 4363649149556496171
+    second: keyboard_hover_23
+  - first:
+      213: 6946025797257739023
+    second: keyboard_hover_24
+  - first:
+      213: -7835977120864173248
+    second: keyboard_hover_25
+  - first:
+      213: -5707512202365358026
+    second: keyboard_hover_26
+  - first:
+      213: -5385533818859780638
+    second: keyboard_hover_27
+  - first:
+      213: 8909769790774001030
+    second: keyboard_hover_28
+  - first:
+      213: 1239165485943797652
+    second: keyboard_hover_29
+  - first:
+      213: 8679096974328448596
+    second: keyboard_hover_30
+  - first:
+      213: 8716529109577191232
+    second: keyboard_hover_31
+  - first:
+      213: -1771486918931096226
+    second: keyboard_hover_32
+  - first:
+      213: 7729849675327506434
+    second: keyboard_hover_33
+  - first:
+      213: 56853872305215230
+    second: keyboard_hover_34
+  - first:
+      213: -532280246204982545
+    second: keyboard_hover_35
+  - first:
+      213: 4409714026070847966
+    second: keyboard_hover_36
+  - first:
+      213: -6691421583668224187
+    second: keyboard_hover_37
+  - first:
+      213: 3587912028427929647
+    second: keyboard_hover_38
+  - first:
+      213: -7032356284653473698
+    second: keyboard_hover_39
+  - first:
+      213: -7819114007408530004
+    second: keyboard_hover_40
+  - first:
+      213: 4799963480024947875
+    second: keyboard_hover_41
+  - first:
+      213: 4652181788747089845
+    second: keyboard_hover_42
+  - first:
+      213: 5830570995417425374
+    second: keyboard_hover_43
+  - first:
+      213: 6343246061825831369
+    second: keyboard_hover_44
+  - first:
+      213: -5258311626218554656
+    second: keyboard_hover_45
+  - first:
+      213: -1954928293348297034
+    second: keyboard_hover_46
+  - first:
+      213: -8702109230424181886
+    second: keyboard_hover_47
+  - first:
+      213: -6349817738958450212
+    second: keyboard_hover_48
+  - first:
+      213: 9016526545148665386
+    second: keyboard_hover_49
+  - first:
+      213: -1838811393557682414
+    second: keyboard_hover_50
+  - first:
+      213: -5347080422144110751
+    second: keyboard_hover_51
+  - first:
+      213: 7760712242415951408
+    second: keyboard_hover_52
+  - first:
+      213: -1491084096805841979
+    second: keyboard_hover_53
+  - first:
+      213: -2882482297040860241
+    second: keyboard_hover_54
+  - first:
+      213: -5698594971838169193
+    second: keyboard_hover_55
+  - first:
+      213: -3475397996616396759
+    second: keyboard_hover_56
+  - first:
+      213: -2400925431483415049
+    second: keyboard_hover_57
+  - first:
+      213: 5603680042539061950
+    second: keyboard_hover_58
+  - first:
+      213: 8762670243921174174
+    second: keyboard_hover_59
+  - first:
+      213: -6859094042505723000
+    second: keyboard_hover_60
+  - first:
+      213: 1086687018455342446
+    second: keyboard_hover_61
+  - first:
+      213: -8135750258926144116
+    second: keyboard_hover_62
+  - first:
+      213: -5236281071740442165
+    second: keyboard_hover_63
+  - first:
+      213: 3760617482824189199
+    second: keyboard_hover_64
+  - first:
+      213: -8404906411239297922
+    second: keyboard_hover_65
+  - first:
+      213: -5067988413703754306
+    second: keyboard_hover_66
+  - first:
+      213: 6951995784653543376
+    second: keyboard_hover_67
+  - first:
+      213: 7664663816906228250
+    second: keyboard_hover_68
+  - first:
+      213: -7626501977855337555
+    second: keyboard_hover_69
+  - first:
+      213: -8862960080070287443
+    second: keyboard_hover_70
+  - first:
+      213: 7842704026327615793
+    second: keyboard_hover_78
+  - first:
+      213: -5282143174506617239
+    second: keyboard_hover_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keyboard_hover_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4c7237c1ae434399a17249c99dcfb
+      internalID: -2389990485552675949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13ec9c42c83de944aca555e38221f94
+      internalID: 8537738528509128232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01865a17a4369b0428834752413bc812
+      internalID: -4151858658857246815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c3961e7696574b9a01fee19191c2a
+      internalID: -6846856635602079120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ae7e35787d5a4aa22597d9020b300
+      internalID: -3371671314328775682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc217535ad377645b4ba5b8d36adf19
+      internalID: 3160798867997582671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd8566c734bc66488e23d18de2bcf30
+      internalID: -3199085470226283631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1028c79cedeabfc498af63633ad58f6b
+      internalID: 6865308269307761787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795dff7ef719adc4dad02a9f52cabad8
+      internalID: -290933019436053315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2700.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4981ed50ee7ac84597468ecb1c6f724
+      internalID: -802344332448193194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614616c3e4bfa864982a2a6ceaa96101
+      internalID: -7094400280432617551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7bd36bd83e374429adfebc669ae226
+      internalID: -6465815342222715649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7e1617f8f02e4ba0e2444a207d68e
+      internalID: -2490514281390072735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_13
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2e76ed18fe38459e59044277616b3
+      internalID: -5072350411411786026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452e1c26dce310468e531f016778530
+      internalID: -7101802237153413209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3d7789d8a306b42acc44e14c9699ba
+      internalID: -8135767780286656881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c427303cc146664f88397b4579a624e
+      internalID: 3942918329665476500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f79b64bc042e84a8236b460044a331
+      internalID: -8429513946422902396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f12f02e430f94fb71dfa3fc866238
+      internalID: 1884301838032474555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_19
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2400.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30957d8a572fc409c922ada1006a18
+      internalID: -2836979699995171898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826f201072b44c49854380c83b83acf
+      internalID: -6923295873766718973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2100.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c96406238ed004d87b40eb535be946
+      internalID: 739351854616114609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2100.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff059096c61210439524c288abb479e
+      internalID: 4998319336482317426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2100.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa9177ff4eaa6d4699c2ec66d6035fc
+      internalID: 4363649149556496171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2100.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235f81ce02a9e5940a81cc066b58d50e
+      internalID: 6946025797257739023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2100.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140d836eec00e2458c97bd217c45898
+      internalID: -7835977120864173248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_26
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2100.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eef3e70081654a42891e30b74e912d0
+      internalID: -5707512202365358026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_27
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2100.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635f40088a467043b9b947e88a02a17
+      internalID: -5385533818859780638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f215cf674b4842940909a1634579d
+      internalID: 8909769790774001030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dac5e492c0bec4fa29e4b6b0006ab1
+      internalID: 1239165485943797652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b156b5411f825d41a5be408b0632fe6
+      internalID: 8679096974328448596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cbe5db5fec4d54a8a172027d68be4a
+      internalID: 8716529109577191232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af7055e4d45e0428ea45a63cc37118
+      internalID: -1771486918931096226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c2cb49da86f1449259c65b5f8fe32
+      internalID: 7729849675327506434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_34
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a54302819f47a43a5915436f116093
+      internalID: 56853872305215230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_35
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c100e0043e40f544590918501827f748
+      internalID: -532280246204982545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_36
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c771d059cc144294cb3cb97bb298c30a
+      internalID: 4409714026070847966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_37
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1800.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c83d3ced9e2e47b6445199787e1d3
+      internalID: -6691421583668224187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6cbcf56fe03e745990833572def0ce
+      internalID: 3587912028427929647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c12d25bcf44c459a714752f6c0bf7
+      internalID: -7032356284653473698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d20f7d21db2a408ee3c2adbea720c
+      internalID: -7819114007408530004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_41
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d05bf1c242ef4bb80a7efe85e2b9c
+      internalID: 4799963480024947875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f94433512422b44bbf7885501b51e0
+      internalID: 4652181788747089845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727859051698cb419c25d2602652217
+      internalID: 5830570995417425374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_44
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f12caf047f13c14fb07619238bc16c5
+      internalID: 6343246061825831369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_45
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76cf4f54afcfd24086ba8e212860ce4
+      internalID: -5258311626218554656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73694754c9fadc94fb9afa955f953f31
+      internalID: -1954928293348297034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_47
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1500.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4732d7db2dc9054da7c955d117b1b5c
+      internalID: -8702109230424181886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f70dd3e54236e34aa8bcce37a998c8c
+      internalID: -6349817738958450212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc76b12a3f071e4b9c435347985455c
+      internalID: 9016526545148665386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15305b586bc796f49af83f938922a896
+      internalID: -1838811393557682414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2630bd8201ffefa4580a03c37ffd061f
+      internalID: -5347080422144110751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62687ba810546bf4ba22265040a86794
+      internalID: 7760712242415951408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_53
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc04cdae05a2fd045baf426344dcd86b
+      internalID: -1491084096805841979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_54
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4796afb1c970dc249ada3cbb2a9dcf98
+      internalID: -2882482297040860241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_55
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0403a3f08f277e42994ef679e22d596
+      internalID: -5698594971838169193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_56
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eba5468d6d9904f860a449d73d2bbd
+      internalID: -3475397996616396759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_57
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1200.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6541dcdd103a5143a91831e65fcf42f
+      internalID: -2400925431483415049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dcfae38069c8f47859be3b0feb7a69
+      internalID: 5603680042539061950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f271bb82b70e2e4f81d8a0bb7f08755
+      internalID: 8762670243921174174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204b743a9033a74cb6ccf4549e3500d
+      internalID: -6859094042505723000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_61
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d27d43356e63342a0045e1b9bd1135
+      internalID: 1086687018455342446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_62
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138128a6a9dbfe740aaeb55eb1dd0214
+      internalID: -8135750258926144116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_63
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaff40598986094481d88e1fb0f90ff
+      internalID: -5236281071740442165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_64
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8022ef6ab291c0c44987690990261fa7
+      internalID: 3760617482824189199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_65
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08107073d38fddc468f661a9327eef35
+      internalID: -8404906411239297922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_66
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e304b303d25526e45af7dc4a59f5900e
+      internalID: -5067988413703754306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_67
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900.9
+        width: 300.1
+        height: 300.1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034457a7216cc454cbfd7f0cae8a39f1
+      internalID: 6951995784653543376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 2363
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2560057d91b6a4b92d9273f52d491d
+      internalID: 7842704026327615793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_68
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 563
+        width: 651
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff417ead6c2d8f4da80341682d6ebe9
+      internalID: 7664663816906228250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_69
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 565
+        width: 566
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894190567bff5a6458fd2eaa4d1cdfef
+      internalID: -7626501977855337555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_70
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 565
+        width: 510
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611ea153b6b66e441950318ecc0d8724
+      internalID: -8862960080070287443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keyboard_hover_71
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 535
+        width: 367
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3630d024ef958ac4a9ba36dcdcae4ee8
+      internalID: -5282143174506617239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

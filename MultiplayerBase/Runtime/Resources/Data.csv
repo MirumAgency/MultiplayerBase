@@ -1,0 +1,71 @@
+Id,English,Spanish
+EN,ENGLISH,INGLES
+ES,SPANISH,ESPAÑOL
+ADMINUSER,Admin User,Usuario
+ENTERUSER,Enter Username,Ingresar Usuario
+PASSWORD,Password,Contraseña
+ENTERPASSWORD,Enter Password,Ingresar Contraseña
+GO,GO,IR
+FILTER,FILTER,FILTRO
+STORE,STORE,TIENDA
+LIBRARY,LIBRARY,LIBRERÍA
+SEARCH,Search,Buscar
+LANGUAGE,LANGUAGE,LENGUAJE
+LEARNER,LEARNER,APRENDIZ
+ADMIN,ADMIN,ADMIN
+CLOSE_APP,CLOSE,CERRAR
+OPEN_VR,OPEN LABS,LIBRERÍA
+LOGOUT,LOG OUT,CERRAR SESIÓN
+SCORE,SCORE,PUNTAJE
+SETTINGS,SETTINGS,CONFIGURACIÓN
+MACHINE_ALIAS,Machine Alias,Nombre de la Máquina
+MACHINE_ALIAS_SUCCESS,Alias changed successfully,Nombre de la máquina ha cambiado
+MACHINE_ALIAS_FAIL,Oops... Something went wrong,Oops... Algo ha pasado
+MESSAGE,Message,Mensaje por configurar
+SEND_LOG,Send Log,Enviar Log
+SUCCESSFULLY_LOG,Log sent successfully,Log enviado satisfactoriamente
+ERROR_LOG,Error. Log cannot sent successfully,Error. Log no pudo ser enviado
+ALL,ALL,TODOS
+UPDATES,UPDATES,ACTUALIZACIONES
+DOWNLOADS,DOWNLOADS,DESCARGAS
+UPSS,Upss. something went wrong. Try again,Upss. Algo ha pasado.
+OK,OK,OK
+MACHINE_NAME,What is the name of this machine?,¿Cuál es el nombre de esta máquina?
+OPEN_EXPERIENCE,You can not have more than one experience open,No puede tener más de una experiencia abierta
+ADMINISTRATOR,ADMINISTRATOR,ADMINISTRADOR
+SUBMIT,SUBMIT,ENVIAR
+LEARNER_ID,Learner ID...,ID de Aprendiz...
+YES,YES,SI
+LOADING,Loading...,Cargando...
+PLEASE_REMOVE,Please remove your headset,Por favor remueva el dispositivo
+DOWNLOAD_FAILED,Download Failed.[BREAK]Trying again in {0}s,Descarga Fallida.[BREAK]Intentándolo de nuevo en {0}s
+ENTER_ALIAS,Enter Alias...,Ingresar nombre de máquina
+ARE_YOU_SURE,Are you sure?,¿Estás seguro?
+NO_INTERNET,No internet Connection,Sin conexión a internet
+CHANGE_HARDWARE_ID,Your Hardware ID has changed. Call for support and send this code,Su hardware Id ha cambiado. Llamar a soporte y envíe el siguiente código:
+DISK_SPACE,Not enough disk space in {0}.[BREAK]You need at least {1} GB of space.,Sin espacio en disco en {0}.[BREAK]Necesita al menos {1} GB de espacio
+INSTALATION_IN_PROGRESS,There is an installation in progress[COMMA] please wait.,Existe una instalación en curso[COMMA] por favor espere.
+IMPORTANT_UPDATE,An important update will be downloaded now.,Una actualización importante será descargada ahora 
+UPDATE_AVAILABLE,There is an update available. Do you want to update now?,Existe una actualización. ¿Desea descargarla ahora?
+NO,NO,NO
+LOOKING_UPDATES,Looking for updates...,Buscando actualizaciones...
+QUEUE,Queue,En cola
+INSTALLING,This process will take several minutes ... ,Este proceso puede durar muchos minutos ... 
+PAUSED,Paused,Pausado
+WAITING,Waiting...,Esperando...
+NONE,   ,   
+PAUSE,PAUSE,PAUSAR
+RESUME,RESUME,REANUDAR
+DOWNLOAD,DOWNLOAD,DESCARGAR
+UPDATE,UPDATE,ACTUALIZAR
+OPEN,OPEN,ABRIR
+DOWNLOAD_COURSE,DOWNLOAD COURSE,DESCARGAR CURSO
+UPDATE_COURSE,UPDATE COURSE,ACTUALIZAR CURSO
+DOWNLOAD_ALL,DOWNLOAD ALL,DESCARGAR TODO
+UPDATE_ALL,UPDATE ALL,DESCARGAR TODO
+DOWNLOAD_NEEDED,This file hasn't been downloaded yet by admin user.,El archivo no ha sido descargado aún por el administrador
+EMPTY_LIBRARY,You don't have any application in your account. Please visit our store.,Aún no tienes ninguna aplicación en tu cuenta. Por favor visita nuestra tienda.
+EMPTY_OPEBLABS_LIBRARY,You don't have any Open Lab Experience. Please <color=#0000FF>visit our store</color> to get them for free.,"Aún no tienes ninguna experiencia ""Open Lab"" en tu librería, <color=#0000FF>visita nuestra tienda</color> y obtén alguna gratis."
+REFRESH,Refresh data.,Actualizar datos.
+QUESTION_SECTION,SECTION QUESTIONS,SECCIÓN DE PREGUNTAS
+CHEAT_FILE,Error 202: Some files were deleted or modified[COMMA]  it is necessary to connect to the internet to restore them,Error 202: Algunos archivos fueron borrados o modificados[COMMA]  es necesario conectarse a internet para restaurarlos
