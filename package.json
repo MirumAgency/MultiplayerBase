@@ -16,7 +16,7 @@
   "hideInEditor": false,
   "samples": [
     {
-      "displayName": "Scenes",
+      "displayName": "Multiplayer Base Assets",
       "description": "En la carpeta multiplayer base se encuentra todo lo necesario para su correcto funcionamiento, incluidas la escena base (preconnecion) y las escenas demo.",
       "path": "Runtime/Multiplayer Base"
     }
